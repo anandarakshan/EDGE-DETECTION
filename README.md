@@ -1,4 +1,6 @@
 # EDGE-DETECTION
+## Name: Ananda Rakshan K V
+## Reg.no: 212223230014
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
